@@ -12,7 +12,7 @@ export default function Home() {
                 <h1 className=" text-3xl"> BRASA BURGUER </h1>
                 <span className=" text-xl ">A ROTA DO SABOR</span>
             </div>
-*/}
+
             <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
 
                 <div className=" relative w-full h-full ">
@@ -21,7 +21,9 @@ export default function Home() {
                         height={700}
                         alt="destaque" />
                 </div>
-            </div>  <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
+            </div> 
+  */}          
+            <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
 
                 <div className=" relative w-full h-full ">
                     <Image src='/bannerchopp.png'

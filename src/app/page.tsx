@@ -23,16 +23,8 @@ export default function Home() {
                 </div>
             </div> 
   */}          
-            <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
-
-                <div className=" relative w-full h-full ">
-                    <Image src='/WhatsApp Image 2025-03-27 at 4.34.56 PM.jpeg'
-                        width={600}
-                        height={700}
-                        alt="destaque" />
-                </div>
-            </div>
-                        <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
+           
+                <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
 
                 <div className=" relative w-full h-full ">
                     <Image src='/WhatsApp Image 2025-03-27 at 3.27.03 PM.jpeg'

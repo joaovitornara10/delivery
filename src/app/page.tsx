@@ -1,6 +1,6 @@
 import { dataPorcoes, dataLanches, dataBebidas, destaque, combos } from "@/db"
 //import { ProducType } from "@/types/ProductTypes";
-import Image from "next/image";
+//import Image from "next/image";
 import Card from "./componets/Card";
 
 export default function Home() {

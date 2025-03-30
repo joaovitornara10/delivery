@@ -22,7 +22,7 @@ export default function Home() {
                         alt="destaque" />
                 </div>
             </div> 
-  */}          
+          
            
                
             <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
@@ -50,7 +50,7 @@ export default function Home() {
                 </div>
             </div>
 
-
+*/}
             {
                 destaque.map((items, index) => (
                     <div key={index} className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">

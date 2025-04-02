@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "BRASA BURGER",
-  description: "BRASA BURGER",
+  description: "CARDAPIO DIGITAL DO BRASA BURGER",
 };
 
 export default function RootLayout({

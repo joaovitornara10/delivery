@@ -585,7 +585,7 @@ export const dataBebidas = ([
             {
                 id: "365",
                 name: "STELLA ",
-                price: "11,99",
+                price: "13,99",
                 category: "bebidas"
 
             },

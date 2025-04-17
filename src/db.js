@@ -401,13 +401,8 @@ export const dataBebidas = ([
                 category: "bebidas"
 
             },
-            {
-                id: "325",
-                name: "PEPSI 1L ",
-                price: "8,99",
-                category: "bebidas"
-
-            },
+            
+                
             {
                 id: "326",
                 name: "PEPSI 2L",
@@ -429,13 +424,8 @@ export const dataBebidas = ([
                 category: "bebidas"
 
             },
-            {
-                id: "329",
-                name: "SUKITA 1L",
-                price: "8,99",
-                category: "bebidas"
-
-            },
+            
+            
             {
                 id: "330",
                 name: "SUKITA 2L ",

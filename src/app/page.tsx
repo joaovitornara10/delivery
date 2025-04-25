@@ -1,6 +1,6 @@
 import { dataPorcoes, dataLanches, dataBebidas, destaque, combos } from "@/db"
 //import { ProducType } from "@/types/ProductTypes";
-//import Image from "next/image";
+import Image from "next/image";
 import Card from "./componets/Card";
 
 export default function Home() {
@@ -24,7 +24,25 @@ export default function Home() {
             </div> 
           
            */}
+             <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
+
+                <div className=" relative w-full h-full ">
+                    <Image src='/WhatsApp Image 2025-04-25 at 6.16.43 PM.jpeg'
+                        width={600}
+                        height={700}
+                        alt="destaque" />
+                </div>
+            </div>
             
+             <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
+
+                <div className=" relative w-full h-full ">
+                    <Image src='/WhatsApp Image 2025-04-25 at 6.16.34 PM.jpeg'
+                        width={600}
+                        height={700}
+                        alt="destaque" />
+                </div>
+            </div>
 
 
             {

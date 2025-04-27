@@ -273,7 +273,7 @@ export const dataPorcoes = ([
         itens: [
             {
                 id: "141",
-                name: "ARROS",
+                name: "ARROZ",
                 price: "31,99",
                 price1: "8,99",
                 category: "porcao"
@@ -635,21 +635,21 @@ export const  combos = ([
                 name: "PICANHA COM FRITAS MEIA COMPLETO",
                 price: "129,99",
                 category: "lanche",
-                description:"Picanha em tiras na chapa, Batata, Mandioca, Arros, Feijão Tropeiro e salada"
+                description:"Picanha em tiras na chapa, Batata, Mandioca, Arroz, Feijão Tropeiro e salada"
             },
             {
                 id: "501",
                 name: "PICANHA COM FRITAS INTEIRA COMPLETO",
                 price: "168,99",
                 category: "lanche",
-                description:"Picanha em tiras na chapa, Batata, Mandioca, Arros, Feijão Tropeiro e salada"
+                description:"Picanha em tiras na chapa, Batata, Mandioca, Arroz, Feijão Tropeiro e salada"
             },
             {
                 id: "502",
                 name: "FILE ACEBOLADO COM FRITAS MEIO COMPLETO",
                 price: "124,99",
                 category: "lanche",
-                description:"file acebolado na chapa, Batata, Mandioca, Arros, Feijão Tropeiro e salada"
+                description:"file acebolado na chapa, Batata, Mandioca, Arroz, Feijão Tropeiro e salada"
 
             },  
             {
@@ -657,7 +657,7 @@ export const  combos = ([
                 name: "FILE ACEBOLADO COM FRITAS INTEIRO COMPLETO",
                 price: "157,99",
                 category: "lanche",
-                description:"file acebolado na chapa, Batata, Mandioca, Arros, Feijão Tropeiro e salada"
+                description:"file acebolado na chapa, Batata, Mandioca, Arroz, Feijão Tropeiro e salada"
 
             },           
         ]
@@ -671,14 +671,14 @@ export const  combos = ([
                 name: "PRATO EXECULTIVO DE FILE A PARMEGIANA",
                 price: "26,99",
                 category: "lanche",
-                description:"File de bovine a parmegiana, Batata, Arros, Feijão Tropeiro e salada"
+                description:"File de bovine a parmegiana, Batata, Arroz, Feijão Tropeiro e salada"
             },
             {
                 id: "512",
                 name: "PRATO EXECULTIVO DE FRANGO A PARMEGIANA",
                 price: "26,99",
                 category: "lanche",
-                description:"File de frango a parmegiana, Batata, Arros, Feijão Tropeiro e salada"
+                description:"File de frango a parmegiana, Batata, Arroz, Feijão Tropeiro e salada"
             },           
         ]
     },

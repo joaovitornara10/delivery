@@ -1,12 +1,246 @@
 
+export const destaque = ([
+    {
+    id: "32",
+    tate: "SOMENTE O ESPETINHO",
+    itens: [
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho Picanha ",
+            price: "13,99",
+            category: "bebidas"
 
-export const destaque = ([{
+        },
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho Alcatra  ",
+            price: "13,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho Contra Filé ",
+            price: "13,99",
+            category: "bebidas"
+        },       
+      
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho de Medalhão de Frango",
+            price: "13,99",
+            category: "bebidas"
+        },   
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho de Medalhão de File",
+            price: "13,99",
+            category: "bebidas"
+        },   
+        {
+            id: "350",
+            name: "Espetinho de Medalhão de Mandioca",
+            price: "13,99",
+            category: "bebidas"
+        },   
+           
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho Panceta de Porco",
+            price: "10,99",
+            category: "bebidas"
+        },  
+         {
+            id: "350",
+            name: "SOMENTE O Espetinho de Carne",
+            price: "10,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho de Frango",
+            price: "10,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho de Coração",
+            price: "10,99",
+            category: "bebidas"
+        },   
+        
+        
+    ],
+    }, 
+    {
+    id: "32",
+    tate: "ESPETINOS SIMPLES",
+    itens: [
+        {
+            id: "350",
+            name: "Espetinho Picanha ",
+            price: "14,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "Espetinho Alcatra  ",
+            price: "14,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "Espetinho Contra Filé ",
+            price: "14,99",
+            category: "bebidas"
+        },       
+      
+        {
+            id: "350",
+            name: "Espetinho de Medalhão de Frango",
+            price: "14,99",
+            category: "bebidas"
+        },   
+        {
+            id: "350",
+            name: "Espetinho de Medalhão de File",
+            price: "14,99",
+            category: "bebidas"
+        },   
+        {
+            id: "350",
+            name: "Espetinho de Medalhão de Mandioca",
+            price: "14,99",
+            category: "bebidas"
+        },   
+           
+        {
+            id: "350",
+            name: "Espetinho Panceta de Porco",
+            price: "11,99",
+            category: "bebidas"
+        },  
+         {
+            id: "350",
+            name: "Espetinho de Carne",
+            price: "11,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "Espetinho de Frango",
+            price: "11,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "Espetinho de Coração",
+            price: "11,99",
+            category: "bebidas"
+        },   
+        
+        
+    ],
+    }, 
+    {
+    id: "32",
+    tate: "ESPETINOS COMPLETOS",
+    itens: [
+        {
+            id: "350",
+            name: "Espetinho Picanha ",
+            price: "32,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+
+
+        },
+        {
+            id: "350",
+            name: "Espetinho Alcatra  ",
+            price: "32,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+
+        },
+        {
+            id: "350",
+            name: "Espetinho Contra Filé ",
+            price: "32,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+        },       
+      
+        {
+            id: "350",
+            name: "Espetinho de Medalhão de Frango",
+            price: "32,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+        },   
+        {
+            id: "350",
+            name: "Espetinho de Medalhão de File",
+            price: "32,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+        },   
+        {
+            id: "350",
+            name: "Espetinho de Medalhão de Mandioca",
+            price: "32,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+        },   
+           
+        {
+            id: "350",
+            name: "Espetinho Panceta de Porco",
+            price: "30,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+        },  
+         {
+            id: "350",
+            name: "Espetinho de Carne",
+            price: "30,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+
+        },
+        {
+            id: "350",
+            name: "Espetinho de Frango",
+            price: "30,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+
+        },
+        {
+            id: "350",
+            name: "Espetinho de Coração",
+            price: "30,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+        },   
+        
+    ],
+    },
+]);
+
+export const destaque2 = ([{
     id: "32",
     tate: "SKOL BEATS",
     itens: [
         {
             id: "350",
-            name: "SKOL BEATS CAIPIRINHA 269ML ",
+            name: "Espetinho picanha alcatra contra filé ",
             price: "9,99",
             category: "bebidas"
 

@@ -392,7 +392,7 @@ export const dataPorcoes = ([
                 id: "115",
                 name: "CALABRESA ",
                 price: "33,99",
-                price1: "20,99",
+                price1: "23,99",
                 category: "porcao"
             },
             {

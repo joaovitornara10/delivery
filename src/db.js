@@ -7,7 +7,7 @@ export const destaque = ([
         {
             id: "350",
             name: "SOMENTE O Espetinho Picanha ",
-            price: "13,99",
+            price: "16,99",
             category: "bebidas"
 
         },
@@ -81,7 +81,7 @@ export const destaque = ([
         {
             id: "350",
             name: "Espetinho Picanha ",
-            price: "14,99",
+            price: "19,99",
             category: "bebidas"
 
         },
@@ -155,7 +155,7 @@ export const destaque = ([
         {
             id: "350",
             name: "Espetinho Picanha ",
-            price: "32,99",
+            price: "35,99",
             category: "bebidas",
             description: "Arroz, Feijão Tropeiro e Vinagrete .",
 

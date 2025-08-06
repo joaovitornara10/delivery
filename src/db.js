@@ -243,69 +243,6 @@ export const destaque = ([
     ],
     },
 ]);
-
-export const destaque2 = ([{
-    id: "32",
-    tate: "SKOL BEATS",
-    itens: [
-        {
-            id: "350",
-            name: "Espetinho picanha alcatra contra filé ",
-            price: "9,99",
-            category: "bebidas"
-
-        },
-        {
-            id: "350",
-            name: "SKOL BEATS GT 269ML ",
-            price: "9,99",
-            category: "bebidas"
-
-        },
-        {
-            id: "350",
-            name: "SKOL BEATS RED MIX 269ML ",
-            price: "9,99",
-            category: "bebidas"
-
-        },
-        {
-            id: "350",
-            name: "SKOL BEATS SENSES 269ML ",
-            price: "9,99",
-            category: "bebidas"
-
-        },
-        {
-            id: "350",
-            name: "SKOL BEATS TROPICAL 269ML ",
-            price: "9,99",
-            category: "bebidas"
-
-        },
-    ],
-    },
-
-]);
-
-export const dataComplement = ([
-    {
-        id: "211",
-        name: "batata",
-        price: 20,
-    },
-    {
-        id: "212",
-        name: "hanburquer",
-        price: 20,
-    },
-    {
-        id: "213",
-        name: "bacon",
-        price: 20,
-    },
-]);
-
 export const dataLanches = ([ //
     {
         id: "001",
@@ -548,13 +485,6 @@ export const dataBebidas = ([
 
             },
             {
-                id: "313",
-                name: "COCA-COLA KS ",
-                price: "5,99",
-                category: "bebidas"
-
-            },
-            {
                 id: "314",
                 name: "COCA-COLA LATA 350ML ",
                 price: "6,99",
@@ -630,16 +560,7 @@ export const dataBebidas = ([
                 price: "5,99",
                 category: "bebidas"
 
-            },
-            
-                
-            {
-                id: "326",
-                name: "PEPSI 2L",
-                price: "9,99",
-                category: "bebidas"
-
-            },
+            },            
             {
                 id: "327",
                 name: "TONICA 350ML ",
@@ -653,16 +574,7 @@ export const dataBebidas = ([
                 price: "5,99",
                 category: "bebidas"
 
-            },
-            
-            
-            {
-                id: "330",
-                name: "SUKITA 2L ",
-                price: "9,99",
-                category: "bebidas"
-
-            },
+            },            
             {
                 id: "331",
                 name: "H2O 500ML ",
@@ -699,23 +611,9 @@ export const dataBebidas = ([
 
             },
             {
-                id: "351",
-                name: "SKOL 600ML",
-                price: "11,99",
-                category: "bebidas"
-
-            },
-            {
                 id: "352",
                 name: "BRAMA LATA 269ML ",
                 price: "6,99",
-                category: "bebidas"
-
-            },
-            {
-                id: "353",
-                name: "BRAMA 600ML",
-                price: "11,99",
                 category: "bebidas"
 
             },
@@ -730,13 +628,6 @@ export const dataBebidas = ([
                 id: "354",
                 name: "ORIGINAL LATA 269ML",
                 price: "6,99",
-                category: "bebidas"
-
-            },
-            {
-                id: "355",
-                name: "ORIGINAL 600ML",
-                price: "12,99",
                 category: "bebidas"
 
             },
@@ -762,13 +653,6 @@ export const dataBebidas = ([
 
             },
             {
-                id: "359",
-                name: "HEINEKEN 600ML",
-                price: "18,99",
-                category: "bebidas"
-
-            },
-            {
                 id: "361",
                 name: "ICE CABARE LIMAO ",
                 price: "12,99",
@@ -788,12 +672,6 @@ export const dataBebidas = ([
                 price: "11,99",
                 category: "bebidas"
 
-            }, {
-                id: "364",
-                name: "SPATEN 600ML",
-                price: "11,99",
-                category: "bebidas"
-
             },
             {
                 id: "364",
@@ -802,14 +680,6 @@ export const dataBebidas = ([
                 category: "bebidas"
 
             },
-            {
-                id: "365",
-                name: "STELLA ",
-                price: "13,99",
-                category: "bebidas"
-
-            },
-          
              {
                 id: "365",
                 name: "STELLA LONG NECK ",
@@ -933,26 +803,4 @@ export const  combos = ([
         ]
     }
 ]);
-
-
-export const dose = ([
-    {
-        id: "421",
-        name: "LIMONADA SUIÇA ",
-        price: "25,99",
-        category: "bebidas"
-
-    },
-]);
-/*
-combos 
-batata com bacon e chader calabresa =53
-
-batata  calabresa mandioca = 70
-
-combos de bebiadas
-
-baldinho 
-
-*/
 

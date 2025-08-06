@@ -76,73 +76,83 @@ export const destaque = ([
     }, 
     {
     id: "32",
-    tate: "ESPETINHOS SIMPLES",
+    tate: "ESPETINOS SIMPLES",
     itens: [
         {
             id: "350",
             name: "Espetinho Picanha ",
             price: "19,99",
-            category: "bebidas"
+            category: "bebidas",                        
+            description: "Feijão Tropeiro e Mandioca.",
 
         },
         {
             id: "350",
             name: "Espetinho Alcatra  ",
             price: "14,99",
-            category: "bebidas"
+            category: "bebidas",                        
+            description: "Feijão Tropeiro e Mandioca.",
 
         },
         {
             id: "350",
             name: "Espetinho Contra Filé ",
             price: "14,99",
-            category: "bebidas"
+            category: "bebidas",                        
+            description: "Feijão Tropeiro e Mandioca.",
         },       
       
         {
             id: "350",
             name: "Espetinho de Medalhão de Frango",
             price: "14,99",
-            category: "bebidas"
+            category: "bebidas",                        
+            description: "Feijão Tropeiro e Mandioca.",
         },   
         {
             id: "350",
             name: "Espetinho de Medalhão de File",
             price: "14,99",
-            category: "bebidas"
+            category: "bebidas",                        
+            description: "Feijão Tropeiro e Mandioca.",
         },   
         {
             id: "350",
             name: "Espetinho de Medalhão de Mandioca",
             price: "14,99",
-            category: "bebidas"
+            category: "bebidas",                        
+            description: "Feijão Tropeiro e Mandioca.",
         },   
            
         {
             id: "350",
             name: "Espetinho Panceta de Porco",
             price: "11,99",
-            category: "bebidas"
+            category: "bebidas",                        
+            description: "Feijão Tropeiro e Mandioca.",
         },  
          {
             id: "350",
             name: "Espetinho de Carne",
             price: "11,99",
-            category: "bebidas"
+            category: "bebidas",                        
+            description: "Feijão Tropeiro e Mandioca.",
 
         },
         {
             id: "350",
             name: "Espetinho de Frango",
             price: "11,99",
-            category: "bebidas"
+            category: "bebidas",                        
+            description: "Feijão Tropeiro e Mandioca.",
 
         },
         {
             id: "350",
             name: "Espetinho de Coração",
             price: "11,99",
-            category: "bebidas"
+            category: "bebidas",                        
+            description: "Feijão Tropeiro e Mandioca.",
         },   
         
         
@@ -150,14 +160,14 @@ export const destaque = ([
     }, 
     {
     id: "32",
-    tate: "ESPETINOS COMPLETOS",
+    tate: "ESPETINHOS COMPLETOS",
     itens: [
         {
             id: "350",
             name: "Espetinho Picanha ",
             price: "35,99",
             category: "bebidas",
-            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+            description: "Arroz, Feijão Tropeiro, Mandioca e Vinagrete .",
 
 
         },
@@ -166,7 +176,7 @@ export const destaque = ([
             name: "Espetinho Alcatra  ",
             price: "32,99",
             category: "bebidas",
-            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+            description: "Arroz, Feijão Tropeiro, Mandioca e Vinagrete .",
 
         },
         {
@@ -174,7 +184,7 @@ export const destaque = ([
             name: "Espetinho Contra Filé ",
             price: "32,99",
             category: "bebidas",
-            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+            description: "Arroz, Feijão Tropeiro, Mandioca e Vinagrete .",
         },       
       
         {
@@ -182,21 +192,21 @@ export const destaque = ([
             name: "Espetinho de Medalhão de Frango",
             price: "32,99",
             category: "bebidas",
-            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+            description: "Arroz, Feijão Tropeiro, Mandioca e Vinagrete .",
         },   
         {
             id: "350",
             name: "Espetinho de Medalhão de File",
             price: "32,99",
             category: "bebidas",
-            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+            description: "Arroz, Feijão Tropeiro, Mandioca e Vinagrete .",
         },   
         {
             id: "350",
             name: "Espetinho de Medalhão de Mandioca",
             price: "32,99",
             category: "bebidas",
-            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+            description: "Arroz, Feijão Tropeiro, Mandioca e Vinagrete .",
         },   
            
         {
@@ -204,14 +214,14 @@ export const destaque = ([
             name: "Espetinho Panceta de Porco",
             price: "30,99",
             category: "bebidas",
-            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+            description: "Arroz, Feijão Tropeiro, Mandioca e Vinagrete .",
         },  
          {
             id: "350",
             name: "Espetinho de Carne",
             price: "30,99",
             category: "bebidas",
-            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+            description: "Arroz, Feijão Tropeiro, Mandioca e Vinagrete .",
 
         },
         {
@@ -219,7 +229,7 @@ export const destaque = ([
             name: "Espetinho de Frango",
             price: "30,99",
             category: "bebidas",
-            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+            description: "Arroz, Feijão Tropeiro, Mandioca e Vinagrete .",
 
         },
         {
@@ -227,7 +237,7 @@ export const destaque = ([
             name: "Espetinho de Coração",
             price: "30,99",
             category: "bebidas",
-            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+            description: "Arroz, Feijão Tropeiro, Mandioca e Vinagrete .",
         },   
         
     ],
@@ -945,3 +955,4 @@ combos de bebiadas
 baldinho 
 
 */
+

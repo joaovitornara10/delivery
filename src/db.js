@@ -1,5 +1,56 @@
 
 export const destaque = ([
+ {
+        id: "43",
+        tate: "COMBOS",
+        itens: [
+            
+            {
+                id: "532",
+                name: "COMBO TURQUESA",
+                price: "67,99",
+                category: "lanche",
+                description:"Tulipa de Frango, Calabresa e Torresmo"
+            },  
+            {
+                id: "532",
+                name: "COMBO DOS FRANGOS ",
+                price: "54,99",
+                category: "lanche",
+                description:"Filé de Frango e Tulipa de Frango"
+            },  
+            {
+                id: "531",
+                name: "COMBO DE FRITAS",
+                price: "93",
+                category: "lanche",
+                description:"Batata, Calabresa, Mandioca e Filé de Frango"
+            },
+            {
+                id: "532",
+                name: "COMBO DE FRITAS COM CHEDDAR",
+                price: "76,99",
+                category: "lanche",
+                description:"Batata com Bacon e Cheddar, Calabresa, Mandioca"
+            }, 
+            {
+                id: "532",
+                name: "COMBO DE FILÉ COM FRITAS SIMPLES ",
+                price: "89,99",
+                category: "lanche",
+                description:"Fifé aceboládo com Batata e Mandioca"
+            },  
+            {
+                id: "532",
+                name: "COMBO DE PICANHA COM FRITAS SIMPLES ",
+                price: "97,99",
+                category: "lanche",
+                description:"Picanha com Batata e Mandioca"
+            },  
+            
+        ]
+    },
+
     {
     id: "32",
     tate: "SOMENTE O ESPETINHO",
@@ -782,16 +833,31 @@ export const  combos = ([
             },           
         ]
     },
-    {
+   {
         id: "43",
         tate: "COMBOS",
         itens: [
+            
+            {
+                id: "532",
+                name: "COMBO TURQUESA",
+                price: "67,99",
+                category: "lanche",
+                description:"Tulipa de Frango, Calabresa e Torresmo"
+            },  
+            {
+                id: "532",
+                name: "COMBO DOS FRANGOS ",
+                price: "54,99",
+                category: "lanche",
+                description:"Filé de Frango e Tulipa de Frango"
+            },  
             {
                 id: "531",
                 name: "COMBO DE FRITAS",
                 price: "93",
                 category: "lanche",
-                description:"Batata, Calabresa, Mandioca"
+                description:"Batata, Calabresa, Mandioca e Filé de Frango"
             },
             {
                 id: "532",
@@ -799,8 +865,25 @@ export const  combos = ([
                 price: "76,99",
                 category: "lanche",
                 description:"Batata com Bacon e Cheddar, Calabresa, Mandioca"
-            },           
+            }, 
+            {
+                id: "532",
+                name: "COMBO DE FILÉ COM FRITAS SIMPLES ",
+                price: "89,99",
+                category: "lanche",
+                description:"Fifé aceboládo com Batata e Mandioca"
+            },  
+            {
+                id: "532",
+                name: "COMBO DE PICANHA COM FRITAS SIMPLES ",
+                price: "97,99",
+                category: "lanche",
+                description:"Picanha com Batata e Mandioca"
+            },  
+            
         ]
-    }
+    },
+
 ]);
+
 

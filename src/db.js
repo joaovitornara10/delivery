@@ -38,7 +38,7 @@ export const destaque = ([
                 name: "COMBO DE FILÉ COM FRITAS SIMPLES ",
                 price: "89,99",
                 category: "lanche",
-                description:"Fifé aceboládo com Batata e Mandioca"
+                description:"Filé aceboládo com Batata e Mandioca"
             },  
             {
                 id: "532",
@@ -140,7 +140,7 @@ export const destaque = ([
         {
             id: "350",
             name: "Espetinho Alcatra  ",
-            price: "14,99",
+            price: "15,99",
             category: "bebidas",                        
             description: "Feijão Tropeiro e Mandioca.",
 
@@ -148,7 +148,7 @@ export const destaque = ([
         {
             id: "350",
             name: "Espetinho Contra Filé ",
-            price: "14,99",
+            price: "15,99",
             category: "bebidas",                        
             description: "Feijão Tropeiro e Mandioca.",
         },       
@@ -156,21 +156,21 @@ export const destaque = ([
         {
             id: "350",
             name: "Espetinho de Medalhão de Frango",
-            price: "14,99",
+            price: "15,99",
             category: "bebidas",                        
             description: "Feijão Tropeiro e Mandioca.",
         },   
         {
             id: "350",
             name: "Espetinho de Medalhão de File",
-            price: "14,99",
+            price: "15,99",
             category: "bebidas",                        
             description: "Feijão Tropeiro e Mandioca.",
         },   
         {
             id: "350",
             name: "Espetinho de Medalhão de Mandioca",
-            price: "14,99",
+            price: "15,99",
             category: "bebidas",                        
             description: "Feijão Tropeiro e Mandioca.",
         },   
@@ -178,14 +178,14 @@ export const destaque = ([
         {
             id: "350",
             name: "Espetinho Panceta de Porco",
-            price: "11,99",
+            price: "12,99",
             category: "bebidas",                        
             description: "Feijão Tropeiro e Mandioca.",
         },  
          {
             id: "350",
             name: "Espetinho de Carne",
-            price: "11,99",
+            price: "12,99",
             category: "bebidas",                        
             description: "Feijão Tropeiro e Mandioca.",
 
@@ -193,7 +193,7 @@ export const destaque = ([
         {
             id: "350",
             name: "Espetinho de Frango",
-            price: "11,99",
+            price: "12,99",
             category: "bebidas",                        
             description: "Feijão Tropeiro e Mandioca.",
 
@@ -201,7 +201,7 @@ export const destaque = ([
         {
             id: "350",
             name: "Espetinho de Coração",
-            price: "11,99",
+            price: "12,99",
             category: "bebidas",                        
             description: "Feijão Tropeiro e Mandioca.",
         },   
@@ -566,7 +566,7 @@ export const dataBebidas = ([
             {
                 id: "318",
                 name: "COCA-COLA 2L ",
-                price: "13,99",
+                price: "14,99",
                 category: "bebidas"
 
             },
@@ -871,7 +871,7 @@ export const  combos = ([
                 name: "COMBO DE FILÉ COM FRITAS SIMPLES ",
                 price: "89,99",
                 category: "lanche",
-                description:"Fifé aceboládo com Batata e Mandioca"
+                description:"Filé aceboládo com Batata e Mandioca"
             },  
             {
                 id: "532",
@@ -885,5 +885,6 @@ export const  combos = ([
     },
 
 ]);
+
 
 
